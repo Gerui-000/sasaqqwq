@@ -1,0 +1,161 @@
+hr{
+	width:800px;
+	height:10px;
+	border-radius:10px;
+	background-color:red;
+	margin-top:100px;
+}
+body{
+	background-image:url("oboii.jpg");
+}
+.Q1{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.y0{
+	height:200px;
+	float:left;
+}
+.Q2{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.j0{
+	height:160px;
+	width:707px;
+	font-size:100px;
+	transition:1s cubic-bezier(.73,1.17,.32,.84);
+	opacity:0.0;
+	float:right;
+}
+.j1{
+	height:150px;
+}
+.j2{
+	height:150px;
+	margin-left:-25px;
+}
+.j3{
+	height:150px;
+	margin-left:-25px;
+}
+.j0:hover{opacity:1.0;}
+.Q3{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.t1{
+	height:150px;
+	float:left;
+	border:5px blue dashed;
+	border-radius:100%;
+}
+
+.Q4{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.m0{
+	background-image:url("modelhardobet.png");
+	transition:1s;
+	width:444px;
+	height:110px;
+	float:left;
+	display:inline-block;
+	border:5px black solid;
+}
+.m0:hover{
+	background-image:url("hard reyovina.png");
+}
+.Q5{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+	text-align:center;
+}
+.v00{
+	display:flex;
+	height:200px;
+	justify-content:center;
+}
+.v0{
+	height:200px;
+	
+}
+.Q6{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.x01{
+	float:left;
+	height:175px;
+}
+
+.Q7{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.bv1{
+	float:left;
+}
+.Q8{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+
+.Q9{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+.nb1{
+	float:left;
+	border:10px black double;
+	background-color:red;
+}
+
+.Q10{
+border-collapse:collapse;	
+float:right;
+}
+tr{
+	width:25px;
+	border:5px black solid;
+	background-color:white;
+}
+td{
+	height:25px;
+	width:25px;
+	border:3px black solid;
+}
+.ss{
+	background-color:red;
+}
+.pp{
+	background-color:yellow;
+}
+.dd{
+	background-color:blue;
+}
+.grype{
+	text-align:center;
+}
+.ff{
+	background-color:green;
+}
+.Q11{
+	color:white;
+	font-weight:bold;
+	text-shadow:0px 0px 3px white;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
